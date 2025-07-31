@@ -53,12 +53,12 @@ st.markdown("""
 def load_data():
     """Load and preprocess erosion data"""
     try:
-        df = pd.read_csv('data/erosion_data.csv')
+        df = pd.read_csv('dataset/erosion_data.csv')
         df['Time'] = pd.to_numeric(df['Time'], errors='coerce')
         df['OBS_VALUE'] = pd.to_numeric(df['OBS_VALUE'], errors='coerce')
         return df
     except FileNotFoundError:
-        st.error("❌ Data file not found. Please ensure 'data/erosion_data.csv' exists.")
+        st.error("❌ Data file not found. Please ensure 'dataset/erosion_data.csv' exists.")
         return pd.DataFrame()
 
 def create_educational_note(title, content):
@@ -171,31 +171,6 @@ def create_severity_breakdown_chart(df):
     
     return fig
 
-def create_country_ranking_chart(df):
-    """Create country ranking chart"""
-    if df.empty:
-        return go.Figure()
-    
-    # Get average total erosion by country
-    country_avg = df[df['EROSION_LEVEL'] == '_T'].groupby('Country')['OBS_VALUE'].mean().reset_index()
-    country_avg = country_avg.sort_values('OBS_VALUE', ascending=True).tail(15)  # Top 15 countries
-    
-    fig = px.bar(
-        country_avg,
-        x='OBS_VALUE',
-        y='Country',
-        orientation='h',
-        title='🏆 Top 15 Countries by Average Total Erosion',
-        labels={'OBS_VALUE': 'Average Percentage of Agricultural Land (%)'},
-        color='OBS_VALUE',
-        color_continuous_scale='Reds'
-    )
-    
-    fig.update_layout(height=600, font=dict(size=12))
-    
-    return fig
-
-
 
 # Main application
 def main():
@@ -304,14 +279,17 @@ def main():
         )
     
     # Row 3: Severity and Country Analysis
-    st.subheader("🎯 Severity Distribution & Country Rankings")
+    st.subheader("🎯 Severity Distribution")
     col1, col2 = st.columns(2)
     
     with col1:
         st.plotly_chart(create_severity_breakdown_chart(filtered_df), use_container_width=True)
-    
+
     with col2:
-        st.plotly_chart(create_country_ranking_chart(filtered_df), use_container_width=True)
+        create_educational_note(
+            "Severity Distribution",
+            "This chart shows the distribution of erosion severity levels across countries. It helps identify which countries are most affected by erosion and which severity levels are most common."
+        )
     
     # Data Explorer Section
     st.markdown("---")

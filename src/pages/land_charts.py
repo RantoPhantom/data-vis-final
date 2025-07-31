@@ -64,7 +64,7 @@ def load_data():
         
         return df
     except FileNotFoundError:
-        st.error("❌ Data file not found. Please ensure 'data/land_data.csv' exists.")
+        st.error("❌ Data file not found. Please ensure 'dataset/land_data.csv' exists.")
         return pd.DataFrame()
 
 def create_educational_note(title, content):
@@ -396,24 +396,6 @@ def main():
     with col2:
         st.plotly_chart(create_top_countries_chart(filtered_df), use_container_width=True)
     
-    # Row 4: Geographic and Advanced Analysis
-    st.subheader("🗺️ Geographic and Pattern Analysis")
-    
-    tab1, tab2 = st.tabs(["🗺️ World Map", "🔥 Intensity Heatmap"])
-    
-    with tab1:
-        st.plotly_chart(create_map_chart(filtered_df), use_container_width=True)
-        create_educational_note(
-            "Global Distribution",
-            "This world map shows the geographic distribution of agricultural land. Darker colors indicate countries with larger agricultural land areas. This helps identify major agricultural producers and regions."
-        )
-    
-    with tab2:
-        st.plotly_chart(create_heatmap_chart(filtered_df), use_container_width=True)
-        create_educational_note(
-            "Pattern Analysis",
-            "This heatmap reveals patterns between countries and land types. It helps identify which countries specialize in certain types of agriculture and reveals regional agricultural patterns."
-        )
     
     # Data Explorer Section
     st.markdown("---")
