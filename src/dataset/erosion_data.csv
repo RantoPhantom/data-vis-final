@@ -1,0 +1,456 @@
+Country,Types of Erosion,EROSION_LEVEL,Erosion risk level,UNIT_MEASURE,Unit of measure,Time,OBS_VALUE,UNIT_MULT
+Australia,Wind erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2004,12.94,0
+Australia,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2004,13.84,0
+Australia,Wind erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2004,6.51,0
+Australia,Wind erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2004,33.3,0
+Australia,Wind erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2005,29.12,0
+Australia,Wind erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2005,6.96,0
+Australia,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2005,11.14,0
+Australia,Wind erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2005,11.02,0
+Australia,Wind erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2006,11.97,0
+Australia,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2006,14.37,0
+Australia,Wind erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2006,5.04,0
+Australia,Wind erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2006,31.39,0
+Australia,Wind erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2007,33.67,0
+Australia,Wind erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2007,5.27,0
+Australia,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2007,14.62,0
+Australia,Wind erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2007,13.77,0
+Australia,Wind erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2008,11.85,0
+Australia,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2008,15.6,0
+Australia,Wind erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2008,6.6,0
+Australia,Wind erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2008,34.05,0
+Australia,Wind erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2009,37.36,0
+Australia,Wind erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2009,10.66,0
+Australia,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2009,12.49,0
+Australia,Wind erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2009,14.2,0
+Australia,Wind erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2010,16.01,0
+Australia,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,11.83,0
+Australia,Wind erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2010,12.45,0
+Australia,Wind erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2010,40.3,0
+Australia,Wind erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2011,21.28,0
+Australia,Wind erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2011,5.16,0
+Australia,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2011,10.88,0
+Australia,Wind erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2011,5.24,0
+Australia,Wind erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,7.1,0
+Australia,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2012,16.78,0
+Australia,Wind erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2012,1.65,0
+Australia,Wind erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2012,25.53,0
+Austria,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,0.2,0
+Belgium,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,1.5,0
+Canada,Wind erosion,HG,High,PT_ALAR,Percentage of agricultural land area,1991,0.26,0
+Canada,Wind erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,1991,0.0,0
+Canada,Wind erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,1991,87.98,0
+Canada,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,1991,9.41,0
+Canada,Wind erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,1991,2.35,0
+Canada,Wind erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,1996,1.85,0
+Canada,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,1996,6.2,0
+Canada,Wind erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,1996,91.72,0
+Canada,Wind erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,1996,0.0,0
+Canada,Wind erosion,HG,High,PT_ALAR,Percentage of agricultural land area,1996,0.24,0
+Canada,Wind erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2001,0.0,0
+Canada,Wind erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2001,0.0,0
+Canada,Wind erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2001,94.26,0
+Canada,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2001,4.64,0
+Canada,Wind erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2001,1.1,0
+Canada,Wind erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2006,0.78,0
+Canada,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2006,2.76,0
+Canada,Wind erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2006,94.46,0
+Canada,Wind erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2006,0.0,0
+Canada,Wind erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2006,0.0,0
+Canada,Wind erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2011,0.0,0
+Canada,Wind erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2011,0.0,0
+Canada,Wind erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2011,96.54,0
+Canada,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2011,2.87,0
+Canada,Wind erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2011,0.59,0
+Czechia,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,1.8,0
+Denmark,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,36.3,0
+Estonia,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,2.3,0
+Finland,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,3.0,0
+France,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,1.0,0
+Germany,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,1.1,0
+Greece,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,3.7,0
+Hungary,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,0.8,0
+Ireland,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,1.9,0
+Italy,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,2.0,0
+Latvia,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,0.2,0
+Lithuania,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,0.1,0
+Luxembourg,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,0.8,0
+Mexico,Wind erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2001,17.28,0
+Mexico,Wind erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2001,11.52,0
+Mexico,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2001,5.09,0
+Mexico,Wind erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2001,0.65,0
+Mexico,Wind erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2001,0.01,0
+Netherlands,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,30.4,0
+Poland,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,0.2,0
+Portugal,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,0.1,0
+Slovak Republic,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,1.3,0
+Slovenia,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,0.4,0
+Spain,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,3.4,0
+Sweden,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,5.8,0
+United Kingdom,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,10.7,0
+United States,Wind erosion,HG,High,PT_ALAR,Percentage of agricultural land area,1992,1.2,0
+United States,Wind erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,1992,51.4,0
+United States,Wind erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,1992,42.9,0
+United States,Wind erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,1992,1.5,0
+United States,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,1992,3.1,0
+United States,Wind erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,1992,2.7,0
+United States,Wind erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,1997,2.3,0
+United States,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,1997,2.5,0
+United States,Wind erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,1997,1.3,0
+United States,Wind erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,1997,44.0,0
+United States,Wind erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,1997,51.1,0
+United States,Wind erosion,HG,High,PT_ALAR,Percentage of agricultural land area,1997,1.0,0
+United States,Wind erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2001,2.4,0
+United States,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2001,2.7,0
+United States,Wind erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2001,1.3,0
+United States,Wind erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2001,44.1,0
+United States,Wind erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2001,51.3,0
+United States,Wind erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2001,1.0,0
+United States,Wind erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2003,2.3,0
+United States,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2003,2.5,0
+United States,Wind erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2003,1.2,0
+United States,Wind erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2003,44.0,0
+United States,Wind erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2003,51.1,0
+United States,Wind erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2003,1.0,0
+United States,Wind erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2007,1.6,0
+United States,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2007,2.4,0
+United States,Wind erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2007,0.5,0
+United States,Wind erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2007,46.3,0
+United States,Wind erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2007,51.2,0
+United States,Wind erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2007,0.3,0
+United States,Wind erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2012,0.6,0
+United States,Wind erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2012,90.8,0
+United States,Wind erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2012,1.1,0
+United States,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2012,4.5,0
+United States,Wind erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,3.0,0
+Bulgaria,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,17.6,0
+Croatia,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,0.0,0
+Cyprus,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,0.0,0
+Malta,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,0.0,0
+Romania,Wind erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,8.5,0
+Australia,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2011,0.4,0
+Australia,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2011,100.0,0
+Australia,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2011,1.3,0
+Australia,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2011,95.6,0
+Australia,Water erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2011,0.4,0
+Australia,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2011,2.3,0
+Austria,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2000,20.1,0
+Austria,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,21.0,0
+Belgium,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2000,0.7,0
+Belgium,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,0.4,0
+Canada,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,1991,2.41,0
+Canada,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,1991,3.21,0
+Canada,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,1991,91.01,0
+Canada,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,1991,1.42,0
+Canada,Water erosion,HG,High,PT_ALAR,Percentage of agricultural land area,1991,1.94,0
+Canada,Water erosion,HG,High,PT_ALAR,Percentage of agricultural land area,1996,2.19,0
+Canada,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,1996,0.95,0
+Canada,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,1996,3.07,0
+Canada,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,1996,91.24,0
+Canada,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,1996,2.55,0
+Canada,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2001,2.55,0
+Canada,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2001,3.14,0
+Canada,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2001,90.96,0
+Canada,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2001,1.0,0
+Canada,Water erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2001,2.36,0
+Canada,Water erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2006,1.23,0
+Canada,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2006,0.97,0
+Canada,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2006,2.87,0
+Canada,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2006,91.56,0
+Canada,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2006,3.38,0
+Canada,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2011,3.29,0
+Canada,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2011,2.55,0
+Canada,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2011,91.72,0
+Canada,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2011,1.03,0
+Canada,Water erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2011,1.41,0
+Chile,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2010,0.2,0
+Chile,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2010,3.1,0
+Chile,Water erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2010,1.0,0
+Chile,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,3.1,0
+Chile,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2010,7.5,0
+Czechia,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2000,3.4,0
+Czechia,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,1.5,0
+Denmark,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2000,0.0,0
+Denmark,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,0.0,0
+Estonia,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2000,0.0,0
+Estonia,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,0.0,0
+Finland,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2000,0.0,0
+Finland,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,0.0,0
+France,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2000,3.9,0
+France,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,2.9,0
+Germany,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2000,2.9,0
+Germany,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,1.4,0
+Greece,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2000,12.4,0
+Greece,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,10.7,0
+Hungary,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2000,3.2,0
+Hungary,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,2.6,0
+Iceland,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,1997,5.0,0
+Ireland,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2000,0.4,0
+Ireland,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,0.3,0
+Italy,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2000,34.1,0
+Italy,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,32.7,0
+Japan,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,1990,2.3,0
+Japan,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,1990,0.0,0
+Japan,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,1990,100.0,0
+Japan,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,1990,0.3,0
+Japan,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,1990,97.4,0
+Japan,Water erosion,HG,High,PT_ALAR,Percentage of agricultural land area,1990,0.0,0
+Korea,Water erosion,HG,High,PT_ALAR,Percentage of agricultural land area,1994,4.3,0
+Korea,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,1994,0.8,0
+Korea,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,1994,15.6,0
+Korea,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,1994,10.0,0
+Korea,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,1994,100.0,0
+Korea,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,1994,69.3,0
+Korea,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,1999,66.9,0
+Korea,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,1999,100.0,0
+Korea,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,1999,10.7,0
+Korea,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,1999,0.9,0
+Korea,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,1999,16.8,0
+Korea,Water erosion,HG,High,PT_ALAR,Percentage of agricultural land area,1999,4.6,0
+Korea,Water erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2002,4.6,0
+Korea,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2002,0.9,0
+Korea,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2002,16.8,0
+Korea,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2002,10.7,0
+Korea,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2002,100.0,0
+Korea,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2002,67.1,0
+Korea,Water erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2004,4.3,0
+Korea,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2004,13.2,0
+Korea,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2004,8.3,0
+Korea,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2004,6.4,0
+Korea,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2004,100.0,0
+Korea,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2004,67.8,0
+Korea,Water erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2008,4.3,0
+Korea,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2008,17.4,0
+Korea,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2008,5.2,0
+Korea,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2008,3.5,0
+Korea,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2008,100.0,0
+Korea,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2008,69.5,0
+Korea,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2017,76.404,0
+Korea,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2017,100.0,0
+Korea,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2017,13.419,0
+Korea,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2017,0.774,0
+Korea,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2017,7.689,0
+Korea,Water erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2017,1.714,0
+Korea,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2019,92.328,0
+Korea,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2019,100.0,0
+Korea,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2019,4.491,0
+Korea,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2019,0.248,0
+Korea,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2019,2.412,0
+Korea,Water erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2019,0.521,0
+Korea,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2021,92.028,0
+Korea,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2021,100.0,0
+Korea,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2021,4.612,0
+Korea,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2021,0.289,0
+Korea,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2021,2.509,0
+Korea,Water erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2021,0.562,0
+Latvia,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2000,0.0,0
+Latvia,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,0.0,0
+Lithuania,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2000,0.0,0
+Lithuania,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,0.0,0
+Luxembourg,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2000,4.6,0
+Luxembourg,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,3.4,0
+Mexico,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2001,21.7,0
+Mexico,Water erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2001,0.8,0
+Mexico,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2001,0.0,0
+Mexico,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2001,12.2,0
+Mexico,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2001,8.6,0
+Netherlands,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2000,0.0,0
+Netherlands,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,0.0,0
+New Zealand,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2012,81.0,0
+New Zealand,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2012,5.0,0
+New Zealand,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2012,100.0,0
+New Zealand,Water erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2012,2.0,0
+New Zealand,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,5.0,0
+New Zealand,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2012,7.0,0
+Poland,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2000,1.6,0
+Poland,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,1.4,0
+Portugal,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2000,7.2,0
+Portugal,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,5.4,0
+Slovak Republic,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2000,8.5,0
+Slovak Republic,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,6.8,0
+Slovenia,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2000,43.2,0
+Slovenia,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,42.4,0
+Spain,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2000,12.6,0
+Spain,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,9.6,0
+Sweden,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2000,0.4,0
+Sweden,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,0.3,0
+Switzerland,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2001,1.0,0
+Switzerland,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2001,99.0,0
+Switzerland,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2010,99.0,0
+Switzerland,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2010,1.0,0
+Türkiye,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,1994,40.0,0
+United Kingdom,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2000,1.6,0
+United Kingdom,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,1.6,0
+United States,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,1992,3.9,0
+United States,Water erosion,HG,High,PT_ALAR,Percentage of agricultural land area,1992,1.2,0
+United States,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,1992,6.8,0
+United States,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,1992,1.1,0
+United States,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,1992,38.5,0
+United States,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,1992,51.4,0
+United States,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,1997,51.1,0
+United States,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,1997,39.3,0
+United States,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,1997,0.8,0
+United States,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,1997,6.4,0
+United States,Water erosion,HG,High,PT_ALAR,Percentage of agricultural land area,1997,1.0,0
+United States,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,1997,3.6,0
+United States,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2001,51.3,0
+United States,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2001,39.9,0
+United States,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2001,0.8,0
+United States,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2001,6.3,0
+United States,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2001,3.4,0
+United States,Water erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2001,0.9,0
+United States,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2003,51.1,0
+United States,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2003,40.0,0
+United States,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2003,0.8,0
+United States,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2003,6.1,0
+United States,Water erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2003,0.9,0
+United States,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2003,3.3,0
+United States,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2007,51.2,0
+United States,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2007,44.8,0
+United States,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2007,0.5,0
+United States,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2007,3.9,0
+United States,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2007,1.7,0
+United States,Water erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2007,0.3,0
+United States,Water erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2012,0.6,0
+United States,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,3.5,0
+United States,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2012,7.0,0
+United States,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2012,1.2,0
+United States,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2012,87.7,0
+United States,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2012,100.0,0
+European Union (28 countries),Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2000,7.7,0
+European Union (28 countries),Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,6.7,0
+Brazil,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2017,69.632,0
+Brazil,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2017,11.709,0
+Brazil,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2017,6.165,0
+Brazil,Water erosion,HG,High,PT_ALAR,Percentage of agricultural land area,2017,6.33,0
+Brazil,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2017,6.165,0
+Bulgaria,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2000,6.2,0
+Bulgaria,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,3.3,0
+Croatia,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2000,10.9,0
+Croatia,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,9.4,0
+Cyprus,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2000,9.5,0
+Cyprus,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,7.2,0
+Malta,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2000,26.7,0
+Malta,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,9.6,0
+Romania,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2000,10.5,0
+Romania,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,9.7,0
+Norway,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,1990,59.7,0
+Norway,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,1990,2.34,0
+Norway,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,1990,7.02,0
+Norway,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,1990,24.3,0
+Norway,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,1990,93.46,0
+Norway,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,1993,96.24,0
+Norway,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,1993,24.06,0
+Norway,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,1993,4.65,0
+Norway,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,1993,1.67,0
+Norway,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,1993,65.86,0
+Norway,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,1994,67.27,0
+Norway,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,1994,1.19,0
+Norway,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,1994,4.64,0
+Norway,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,1994,23.42,0
+Norway,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,1994,96.53,0
+Norway,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,1995,96.87,0
+Norway,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,1995,23.04,0
+Norway,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,1995,4.89,0
+Norway,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,1995,1.09,0
+Norway,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,1995,67.84,0
+Norway,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,1996,69.14,0
+Norway,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,1996,1.06,0
+Norway,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,1996,4.57,0
+Norway,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,1996,22.36,0
+Norway,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,1996,97.13,0
+Norway,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,1997,97.23,0
+Norway,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,1997,21.73,0
+Norway,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,1997,4.56,0
+Norway,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,1997,1.18,0
+Norway,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,1997,69.76,0
+Norway,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,1998,70.37,0
+Norway,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,1998,1.03,0
+Norway,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,1998,4.43,0
+Norway,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,1998,21.46,0
+Norway,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,1998,97.3,0
+Norway,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,1999,98.91,0
+Norway,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,1999,21.57,0
+Norway,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,1999,4.31,0
+Norway,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,1999,1.15,0
+Norway,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,1999,71.87,0
+Norway,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2000,72.67,0
+Norway,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2000,1.03,0
+Norway,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2000,4.14,0
+Norway,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2000,21.21,0
+Norway,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2000,99.05,0
+Norway,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2001,98.52,0
+Norway,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2001,20.34,0
+Norway,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2001,3.62,0
+Norway,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2001,0.81,0
+Norway,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2001,73.75,0
+Norway,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2003,94.38,0
+Norway,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2003,19.17,0
+Norway,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2003,3.39,0
+Norway,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2003,0.82,0
+Norway,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2003,71.01,0
+Norway,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2006,72.13,0
+Norway,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2006,0.91,0
+Norway,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2006,3.13,0
+Norway,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2006,19.02,0
+Norway,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2006,95.18,0
+Norway,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2010,75.55,0
+Norway,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2010,1.1,0
+Norway,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2010,1.92,0
+Norway,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2010,17.54,0
+Norway,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2010,96.11,0
+Norway,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2011,100.0,0
+Norway,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2011,17.0,0
+Norway,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2011,3.0,0
+Norway,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2011,1.0,0
+Norway,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2011,79.0,0
+Norway,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2012,78.0,0
+Norway,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2012,1.0,0
+Norway,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2012,3.0,0
+Norway,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2012,17.0,0
+Norway,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2012,99.0,0
+Norway,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2013,100.0,0
+Norway,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2013,17.0,0
+Norway,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2013,4.0,0
+Norway,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2013,1.0,0
+Norway,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2013,78.0,0
+Norway,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2014,78.0,0
+Norway,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2014,1.0,0
+Norway,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2014,4.0,0
+Norway,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2014,17.0,0
+Norway,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2014,100.0,0
+Norway,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2015,100.0,0
+Norway,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2015,17.0,0
+Norway,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2015,5.0,0
+Norway,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2015,1.0,0
+Norway,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2015,77.0,0
+Norway,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2016,76.0,0
+Norway,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2016,1.0,0
+Norway,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2016,5.0,0
+Norway,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2016,18.0,0
+Norway,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2016,100.0,0
+Norway,Water erosion,_T,Total,PT_ALAR,Percentage of agricultural land area,2017,100.0,0
+Norway,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2017,18.0,0
+Norway,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2017,5.0,0
+Norway,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2017,1.0,0
+Norway,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2017,76.0,0
+Norway,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2018,76.0,0
+Norway,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2018,5.0,0
+Norway,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2018,5.0,0
+Norway,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2018,18.0,0
+Norway,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2019,16.0,0
+Norway,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2019,4.0,0
+Norway,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2019,1.0,0
+Norway,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2019,78.0,0
+Norway,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2020,77.0,0
+Norway,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2020,1.0,0
+Norway,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2020,4.0,0
+Norway,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2020,17.0,0
+Norway,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2021,8.0,0
+Norway,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2021,2.0,0
+Norway,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2021,0.0,0
+Norway,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2021,90.0,0
+Norway,Water erosion,TOL,Tolerable,PT_ALAR,Percentage of agricultural land area,2022,90.0,0
+Norway,Water erosion,SV,Severe,PT_ALAR,Percentage of agricultural land area,2022,0.0,0
+Norway,Water erosion,MD,Moderate,PT_ALAR,Percentage of agricultural land area,2022,2.0,0
+Norway,Water erosion,LW,Low,PT_ALAR,Percentage of agricultural land area,2022,7.0,0
