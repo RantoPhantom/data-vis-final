@@ -269,7 +269,7 @@ with tabs[1]:
 with tabs[2]:
     choropleth_tab()
 
-st.html("<h3>D3 chart made with mock data</h3>")
+st.html("<h3>Greenhouse Gas Emissions vs Economic Activity</h3>")
 
 components.html(
     """
