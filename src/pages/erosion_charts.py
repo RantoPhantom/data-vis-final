@@ -53,7 +53,7 @@ st.markdown("""
 def load_data():
     """Load and preprocess erosion data"""
     try:
-        df = pd.read_csv('dataset/erosion_data.csv')
+        df = pd.read_csv('./src/dataset/erosion_data.csv')
         df['Time'] = pd.to_numeric(df['Time'], errors='coerce')
         df['OBS_VALUE'] = pd.to_numeric(df['OBS_VALUE'], errors='coerce')
         return df

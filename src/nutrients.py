@@ -4,9 +4,9 @@ import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 
-FILE_PATH = "./dataset/cleaned_data.csv"
+FILE_PATH = "./src/dataset/cleaned_data.csv"
 
-STYLE_PATH = "./styles/nutrients.css"
+STYLE_PATH = "./src/styles/nutrients.css"
 
 st.set_page_config(
     page_title="Nutrients Balance Dashboard",

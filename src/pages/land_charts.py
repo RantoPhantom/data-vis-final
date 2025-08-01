@@ -53,7 +53,7 @@ st.markdown("""
 def load_data():
     """Load and preprocess land data"""
     try:
-        df = pd.read_csv('dataset/land_data.csv')
+        df = pd.read_csv('./src/dataset/land_data.csv')
         df['Time'] = pd.to_numeric(df['Time'], errors='coerce')
         df['OBS_VALUE'] = pd.to_numeric(df['OBS_VALUE'], errors='coerce')
         df['Actual area (ha)'] = pd.to_numeric(df['Actual area (ha)'], errors='coerce')
