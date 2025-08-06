@@ -57,17 +57,17 @@ class NutrientDashboard:
             with sub_col1:
                 n_input = filtered_data[filtered_data['Measure'] == 'Nutrient inputs']
                 n_input = n_input['OBS_VALUE'].sum() 
-                st.metric("Nutrient Input", self.format_number(n_input))
+                st.metric("Nutrient Input", self.format_number(n_input), border=True)
 
             with sub_col2:
                 n_output = filtered_data[filtered_data['Measure'] == 'Nutrient outputs']
                 n_output = n_output['OBS_VALUE'].sum() 
-                st.metric("Nutrient Output", self.format_number(n_output))
+                st.metric("Nutrient Output", self.format_number(n_output), border=True)
             
             with sub_col3:
                 n_balance = filtered_data[filtered_data['Measure'] == 'Balance (inputs minus outputs)']
                 n_balance = n_balance['OBS_VALUE'].sum() 
-                st.metric("Nutrient Balance", self.format_number(n_balance))
+                st.metric("Nutrient Balance", self.format_number(n_balance), border=True)
 
             st.markdown("""
                 <hr style="margin-top: 0.3rem; margin-bottom: 1.4rem; border: none; border-top: 2px solid #ccc;" />
