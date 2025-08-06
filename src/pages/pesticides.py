@@ -188,7 +188,7 @@ class PesticidesDashboard:
                 }});
             </script>
             """
-        components.html(html_code, height=480)
+        components.html(html_code, height=480, width=1100)
         return
 
     
@@ -283,7 +283,7 @@ class PesticidesDashboard:
             </script>
             """
 
-        components.html(html_code, height=350)
+        components.html(html_code, height=350, width=1100)
         return
     
     def run(self):
