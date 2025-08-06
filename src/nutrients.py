@@ -193,7 +193,7 @@ class NutrientDashboard:
             color='OBS_VALUE',
             color_continuous_scale='sunsetdark',
             labels={'OBS_VALUE': 'Kilogramme'},
-            title='Choropleth Map of Nutrient Balance per hectare'
+            title='Choropleth Map of Nutrient Balance per hectare (Kilogramme)'
         )
 
         fig.update_layout(
@@ -249,7 +249,7 @@ class NutrientDashboard:
 
         fig = px.pie(grouped, names='Measure', values='OBS_VALUE', hole=0.5)
         fig.update_layout(
-            title=f"Nutrient Livestock Input contriubtion in {self.year_range[0]} - {self.year_range[1]}",
+            title=f"Nutrient Livestock Input contriubtion in {self.year_range[0]} - {self.year_range[1]} ({live_type})",
             margin=dict(l=0, r=0, t=30, b=0),
             legend=dict(
                 orientation="v",   
@@ -281,7 +281,7 @@ class NutrientDashboard:
             color_discrete_sequence=px.colors.qualitative.Pastel,
         )
 
-        fig.update_layout(title=f"Nutrient Output contributions across Areas in {self.year_range[0]} - {self.year_range[1]}", 
+        fig.update_layout(title=f"Nutrient Output contributions across Areas in {self.year_range[0]} - {self.year_range[1]} ({cat_type})", 
                           xaxis_title="Area", 
                           yaxis_title="Tonnes",
                           margin=dict(l=0, r=0, t=50, b=0))
